@@ -19,11 +19,6 @@ const questions = () => {
     },
     {
       type: "input",
-      name: "about",
-      message: "Please add Table of Contents of your Project:",
-    },
-    {
-      type: "input",
       name: "install",
       message: "Please add installation instructions for your Project:",
     },
@@ -47,8 +42,15 @@ const questions = () => {
     },
     {
       type: "input",
-      name: "instructions",
-      message: "Please Add contribution guidelines here:",
+      name: "credits",
+      message:
+        "If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section:",
+    },
+    {
+      type: "input",
+      name: "contribute",
+      message:
+        "List your collaborators, if any, with links to their GitHub profiles",
     },
     {
       type: "input",
@@ -57,10 +59,22 @@ const questions = () => {
     },
   ]);
 };
-console.log(questions);
+questions().then((answers) => {
+  console.log(answers);
+
+  var template = markDown(answers);
+  writeToFile("name.md", template);
+});
 
 // function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, function (err) {
+    if (err) {
+      return console.log(err);
+    }
+    return console.log("success");
+  });
+}
 
 // function to initialize program
 function init() {}
