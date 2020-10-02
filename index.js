@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const markDown = require("./generateMarkdown.js");
+const markDown = require("./Develop/utils/generateMarkdown.js");
 
 const inquirer = require("inquirer");
 
