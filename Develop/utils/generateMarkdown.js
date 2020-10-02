@@ -22,18 +22,15 @@ Provide instructions and examples for use. Include screenshots as needed.
 ${data.credits}
 
 
-
----
-
-
-
 ## Contributing
 ${data.contribute}
-
 
 ## Tests
 ${data.test}
 
+## Questions and Info
+${data.info1}
+${data.info2}
 
 `;
 }

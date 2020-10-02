@@ -57,6 +57,16 @@ const questions = () => {
       name: "test",
       message: "Please add instructions for testing here:",
     },
+    {
+      type: "input",
+      name: "info1",
+      message: "Please enter Github username:",
+    },
+    {
+      type: "input",
+      name: "info2",
+      message: "Please enter email address:",
+    },
   ]);
 };
 questions().then((answers) => {
