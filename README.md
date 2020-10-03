@@ -13,7 +13,7 @@ The documentaion can be found here [inquierer](https://www.npmjs.com/package/inq
 
 ## Usage
     node.js
-You can folow this link for informnation on node.js https://nodejs.org/
+You can folow this link for informnation on node.js [node.js](https://nodejs.org/)
     
 ### Link to video to demonstrate how the application works
 
