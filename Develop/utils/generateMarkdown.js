@@ -22,13 +22,13 @@ ${data.license}
 
 
 ## Installation
-${data.install}
+    ${data.install}
 
 ## Description 
 ${data.description}
 
 ## Usage 
-${data.about}
+    ${data.about}
 
 ## Questions and Info
 * ${data.info1}
@@ -46,13 +46,6 @@ ${data.contribute}
 
 ## Credits
 ${data.credits}
-
-
-
-
-
-
-
 
 `;
 }
