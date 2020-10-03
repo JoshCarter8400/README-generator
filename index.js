@@ -40,7 +40,6 @@ const questions = () => {
         },
         {
           message: "MIT",
-
           key: "MIT",
           value:
             "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",

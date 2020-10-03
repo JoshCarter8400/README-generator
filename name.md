@@ -1,9 +1,9 @@
 
 ### License
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 
-# lets see
+# README.md Generator
 
 ## Table of Contents
 * [Installation](#installation)
@@ -20,30 +20,30 @@
 
 
 ## Installation
-video
+npm init npm install inquirer
 
 ## Description 
-working
+A node.js application
 
 ## Usage 
-readmes
+Run the following command at the root of your project node index.js
 
 ## Questions and Info
-joshcarter8400
-https://github.com/JoshCarter8400
-joshcarter8400@gmail.com
+* JoshCarter8400
+* https://github.com/JoshCarter8400
+* joshcarter8400@gmail.com
 
 ## Tests
-video
+Same as usage
 
 ## Contributing
-team
+None
 
 
  
 
 ## Credits
-none
+None
 
 
 

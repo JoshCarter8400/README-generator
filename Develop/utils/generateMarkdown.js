@@ -31,9 +31,9 @@ ${data.description}
 ${data.about}
 
 ## Questions and Info
-${data.info1}
-${data.link}
-${data.link1}
+* ${data.info1}
+* ${data.link}
+* ${data.link1}
 
 ## Tests
 ${data.test}
