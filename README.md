@@ -13,7 +13,7 @@ The documentaion can be found here <a href="https://www.npmjs.com/package/inquir
 
 ## Usage
     node.js
-You can folow this link for informnation on node.js <a href="https://nodejs.org/"
+You can folow this link for informnation on node.js <a href="https://nodejs.org/"</a>
     
 ### Link to video to demonstrate how the application works
 
