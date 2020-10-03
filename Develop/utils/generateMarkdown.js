@@ -4,33 +4,55 @@ function generateMarkdown(data) {
 ### License
 ${data.license}  
 
-# Title
-${data.title}
 
-## Description 
-${data.description}
+# ${data.title}
+
+## Table of Contents
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Test](#test)
+
+* [Questions](#questions)
+
 
 ## Installation
 ${data.install}
 
+## Description 
+${data.description}
+
 ## Usage 
 ${data.about}
 
-Provide instructions and examples for use. Include screenshots as needed. 
+## Questions and Info
+${data.info1}
+${data.link}
+${data.link1}
+
+## Tests
+${data.test}
+
+## Contributing
+${data.contribute}
+
+
+ 
 
 ## Credits
 ${data.credits}
 
 
-## Contributing
-${data.contribute}
 
-## Tests
-${data.test}
 
-## Questions and Info
-${data.info1}
-${data.info2}
+
+
+
 
 `;
 }

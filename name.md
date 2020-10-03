@@ -1,32 +1,54 @@
 
 ### License
-MIT  
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
 
-# Title
-README Generator
 
-## Description 
-homewrok assignment
+# lets see
+
+## Table of Contents
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Test](#test)
+
+* [Questions](#questions)
+
 
 ## Installation
-watch the video
+video
+
+## Description 
+working
 
 ## Usage 
-Create readme files
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-## Credits
-None
-
-
-## Contributing
-Luis
-
-## Tests
-Follow the video link
+readmes
 
 ## Questions and Info
-JoshCarter8400
-Joshcarter8400@gmail.com
+joshcarter8400
+https://github.com/JoshCarter8400
+joshcarter8400@gmail.com
+
+## Tests
+video
+
+## Contributing
+team
+
+
+ 
+
+## Credits
+none
+
+
+
+
+
+
+
 
