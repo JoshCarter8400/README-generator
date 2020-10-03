@@ -3,7 +3,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
 
 
-# let's see
+# Homework
 
 ## Table of Contents
 * [Installation](#installation)
@@ -20,7 +20,7 @@
 
 
 ## Installation
-    npm init
+    npm init  npm install 
 
 ## Description 
 study
@@ -29,19 +29,19 @@ study
     npm inquirer
 
 ## Questions and Info
-* JoshCarter8400
+* https://github.com/JoshCarter8400
 * https://github.com/JoshCarter8400
 * joshcarter8400@gmail.com
 
 ## Tests
-video
+adding area for testing here
 
 ## Contributing
-team
+Team team
 
 
  
 
 ## Credits
-the team
+none
 
