@@ -9,7 +9,7 @@ Hello this is a application that is ran from the command line built with node.js
 
 ## Instillation 
     npm install inquirer.js
-The documentaion can be found here [inquierer](https://www.npmjs.com/package/inquirer)
+The documentaion can be found here [inquirer](https://www.npmjs.com/package/inquirer)
 
 ## Usage
     node.js
