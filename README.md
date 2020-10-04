@@ -16,5 +16,8 @@ The documentaion can be found here [inquirer](https://www.npmjs.com/package/inqu
 You can folow this link for informnation if you need to install [node.js](https://nodejs.org/)
     
 ### Demo video 
-[click here to see a demo of the application](https://drive.google.com/file/d/1W1UYwXQBOr037rAHLEoHCn5ncgRxsfyx/preview)
+
+<video width="320" height="240" controls>
+  <source src="README.md generator.mp4" type="video/mp4">
+</video>
 
