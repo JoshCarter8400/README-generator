@@ -31,9 +31,9 @@ ${data.description}
     ${data.about}
 
 ## Questions and Info
-* ${data.info1}
-* ${data.link}
-* ${data.link1}
+* Github Username: ${data.info1}
+* Github Profile: ${data.link}
+* Email: ${data.link1}
 
 ## Tests
 ${data.test}

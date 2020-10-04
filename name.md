@@ -1,9 +1,9 @@
 
 ### License
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
 
 
-# Homework
+# README
 
 ## Table of Contents
 * [Installation](#installation)
@@ -20,28 +20,28 @@
 
 
 ## Installation
-    npm init  npm install 
+    npm init npm install
 
 ## Description 
-study
+homework
 
 ## Usage 
-    npm inquirer
+    node.js npm inquirer
 
 ## Questions and Info
-* https://github.com/JoshCarter8400
-* https://github.com/JoshCarter8400
-* joshcarter8400@gmail.com
+* Github Username: JoshCarter8400
+* Github Profile: https://github.com/JoshCarter8400
+* Email: joshcarter8400@gmail.com
 
 ## Tests
-adding area for testing here
+test with video
 
 ## Contributing
-Team team
+team
 
 
  
 
 ## Credits
-none
+the team
 
