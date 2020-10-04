@@ -16,5 +16,6 @@ The documentaion can be found here [inquierer](https://www.npmjs.com/package/inq
 You can folow this link for informnation if you need to install [node.js](https://nodejs.org/)
     
 ### Demo video 
+<figure class="video-container">
 <iframe src="https://drive.google.com/file/d/1W1UYwXQBOr037rAHLEoHCn5ncgRxsfyx/preview" width="640" height="480"></iframe>
-
+</figure>
