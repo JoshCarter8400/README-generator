@@ -16,7 +16,5 @@ The documentaion can be found here [inquirer](https://www.npmjs.com/package/inqu
 You can folow this link for informnation if you need to install [node.js](https://nodejs.org/)
     
 ### Demo video 
-
-
-[!](https://drive.google.com/file/d/1W1UYwXQBOr037rAHLEoHCn5ncgRxsfyx/preview)
+[click here to see a demo of the application](https://drive.google.com/file/d/1W1UYwXQBOr037rAHLEoHCn5ncgRxsfyx/preview)
 
