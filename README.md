@@ -11,7 +11,7 @@ Hello this is a application that is ran from the command line built with node.js
 * [Usage](#usage)
 
 ## Instillation 
-    npm install inquirer.js clone repo here
+    npm install inquirer.js clone repo here git@github.com:JoshCarter8400/readme-generator.git
 The documentaion can be found here [inquirer](https://www.npmjs.com/package/inquirer)
 
 ## Usage
